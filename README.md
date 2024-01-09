@@ -6,4 +6,4 @@ These are images when we trained the network for 3 consecutive weeks on the RTX3
 
 ![image 2](2.png)
 ![image 1](1.png)
-![image 3](3.png)
+![image 3](3.jpg)
